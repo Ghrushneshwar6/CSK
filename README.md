@@ -10,11 +10,11 @@
         }
         .container{
             display: flex;
-            gap:5px;
+            gap:10px;
         }
         #all{
             display: flex;
-            gap:5px;
+            gap:10px;
         }
         img{
             height:200px;
